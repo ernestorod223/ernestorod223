@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ernesto! <br/><a href="https://github.com/ernestorod223">Programmer</a> & <a href="https://www.linkedin.com/in/ernesto-a-rodriguez-623242327/">Cybersecurity Student</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Python</b>
   - [Password Strength Checker](https://github.com/ernestorod223/ernestorod223/blob/main/Password_Strength.py)
