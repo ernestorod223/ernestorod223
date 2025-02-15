@@ -5,6 +5,7 @@
 - <b>Python</b>
   - [Password Strength Checker](https://github.com/ernestorod223/ernestorod223/blob/main/Password_Strength.py)
   - [Keylogger](https://github.com/ernestorod223/ernestorod223/blob/main/Keylogger.py)
+  - [Firewall Simulation](https://github.com/ernestorod223/ernestorod223/blob/main/Firewall%20sim.py)
 
 <h2>📄 Certifications:</h2>
 
