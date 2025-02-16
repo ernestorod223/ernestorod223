@@ -3,11 +3,11 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Python</b>
-  - [Password Strength Checker](https://github.com/ernestorod223/ernestorod223/blob/main/Password_Strength.py)
-  - [Keylogger](https://github.com/ernestorod223/ernestorod223/blob/main/Keylogger.py)
   - [Firewall Simulation](https://github.com/ernestorod223/ernestorod223/blob/main/Firewall%20sim.py)
+  - [Keylogger](https://github.com/ernestorod223/ernestorod223/blob/main/Keylogger.py)
   - [Password Generator](https://github.com/ernestorod223/ernestorod223/blob/main/Password_Generator.py)
   - [Password Manager](https://github.com/ernestorod223/ernestorod223/blob/main/Password_Manager.py)
+  - [Password Strength Checker](https://github.com/ernestorod223/ernestorod223/blob/main/Password_Strength.py)
 
 <h2>📄 Certifications:</h2>
 
