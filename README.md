@@ -9,7 +9,7 @@
 
 <h2>📄 Certifications:</h2>
 
-- 
+  - [Wordpress Certified Editor](https://knowledge-pillars.com/wordpress-certified-editor/?amp)
 
 <h2> 🤳 Connect with me:</h2>
 
