@@ -8,6 +8,7 @@
   - [Password Generator](https://github.com/ernestorod223/ernestorod223/blob/main/Password_Generator.py)
   - [Password Manager](https://github.com/ernestorod223/ernestorod223/blob/main/Password_Manager.py)
   - [Password Strength Checker](https://github.com/ernestorod223/ernestorod223/blob/main/Password_Strength.py)
+  - [Ping Sweeper](https://github.com/ernestorod223/ernestorod223/blob/main/Ping_Sweeper.py)
 
 <h2>📄 Certifications:</h2>
 
