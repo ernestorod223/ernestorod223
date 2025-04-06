@@ -8,5 +8,5 @@ password = ""
 for x in range(length):
     password += random.choice(chars)
 
-    print("Your password is:", password)
-
+# Print the password after the loop completes
+print("Your password is:", password)
