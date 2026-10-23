@@ -14,7 +14,8 @@
 
   - [Wordpress Certified Editor](https://knowledge-pillars.com/wordpress-certified-editor/?amp)
   - [Device Configuration and Management](https://certiport.pearsonvue.com/Certifications/ITSpecialist/Certification/Certify.aspx)
-  - [Cybersecurity
+  - [Cybersecurity](https://www.credly.com/badges/e32eba78-8f6d-4d6a-8032-53c4c2b4f560/linked_in?t=tff0oc)
+  - [Artificial Intelligence](https://www.credly.com/earner/earned/badge/1c13c74e-2abd-408c-bd9e-65cc4d6846ff)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
